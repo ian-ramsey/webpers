@@ -1,0 +1,21 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jul 19, 2017, 5:49:25 PM
+    Author     : Clayton Ramsey
+*/
+birdWrapper{
+    border: 1em solid white;
+    width:60em;
+    height:60em;
+    margin:auto;
+}
+birdCanvas{
+    width:50em;
+    height:50em;
+    background-color:white;
+    margin:auto;
+}
